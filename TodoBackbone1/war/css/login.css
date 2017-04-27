@@ -1,0 +1,190 @@
+
+   
+body
+{
+   background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
+}
+
+.create-account
+{
+    padding: 25px;
+}
+.create-account .right-section
+{
+    float:right;
+}
+.create-account label
+{
+    display:inline-block;
+    color:#00cc00;
+    padding-right: 10px;
+
+}
+
+.social-icons ul li {
+    margin-left: 3px;
+}
+.social-icons {
+    margin-top: 2em;
+    align-center;
+    padding:0px 30px 0px 80px;
+}
+.social-icons ul li {
+    display: inline-block;
+}
+.social-icons ul li a {
+    display: block;
+    width: 65px;
+    height: 36px;
+    text-align: center;
+    background-color: #3B5998;
+}
+
+.social-icons ul li a.ggl {
+    background-color: #dc4e41;
+}
+.social-icons ul li a img {
+    padding-top: 0.5em;
+}
+.social-icons ul li a:hover img {
+    transform: rotatey(360deg);
+    transition: .5s all;
+}
+
+.create-account 
+{
+    background:#299a0b;
+}
+.container .login-form 
+{
+    width:35%;
+    margin: 40px auto;
+    background: #06c5ad;
+    border-radius: 10px;
+}
+.container .login-form .inner-form
+{
+    padding:45px;
+    border-bottom:1px solid #fff;
+    height:450px;
+   
+}
+
+.container .login-form .signin-links
+{
+    border-bottom: 1px solid #fff;
+}
+.container .login-form .signin h1
+{
+    text-align: center;
+    color:#FFFFFF;
+    padding: 5px 0px 30px;
+    margin: 0px;
+}
+
+.container .login-form .signin-links .social-links:hover
+{
+    text-decoration:none;
+}
+.container .login-form .input-fields
+{
+    margin-top:30px;
+}
+.container .login-form .input-fields form .input
+{
+    width: 100%;
+    height: 38px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    outline: none;
+}
+.container .login-form .input-fields form .signin-btn
+{
+    background: #e55151;
+    border: none;
+    width: 80px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 4px;
+    outline: none;
+    font-size: 16px;
+    margin-top: 10px;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-color:#fff;
+}
+
+  
+ /* .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 30px 30px;
+    font-size: 18px;
+    line-height: 20px;
+    backgroung:	#FFFFFF;} */
+   
+
+.logo {
+    background: url("https://my.setmore.com/images/setmore-logo-new.png");
+    height: 50px;
+    width: 111px;
+    float: left;
+    position: absolute;
+    top: 0px;
+    left: 12px;
+}
+.navbar {
+    position: relative;
+    min-height: 63px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    padding:0px 1px;
+}
+.container{
+    width: 265px;
+    padding: 0px 30px;
+    color: #000;
+    border-radius: 6px;
+}
+.social-icons ul li a.ggl {
+    background-color: #dc4e41;
+}
+.signup label{
+	float:right;
+	color:#fff;
+	padding:18px 8px 0px 0px;
+	    font-family: "Times New Roman", Georgia, Serif;
+	    font-size:18px;
+	
+}
+.button2{
+	float:right;
+	
+background-color:#299a0b ; color: white;
+    position: static;
+    
+    top: 15px;
+    left: 7px;
+    right: 17px;
+    border:white;
+        margin-top: 7px;
+    
+}
